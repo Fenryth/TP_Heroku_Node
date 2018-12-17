@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Fenryth/TP_Heroku_Node/issues"
   },
-  "homepage": "https://github.com/Fenryth/TP_Heroku_Node#readme"
+  "homepage": "https://github.com/Fenryth/TP_Heroku_Node#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
